@@ -1,0 +1,31 @@
+.price{
+    margin-top: 550px;
+}
+
+
+.card {
+    min-height: 30px;
+}
+
+
+
+.sofa{
+
+    margin-left: 600px;
+    margin-top:-400px;
+}
+
+
+
+
+
+
+
+.card-img-top{
+    transition: 0.5s;
+}
+
+
+.card-img-top:hover{
+    transform: scale(1.1);
+}
